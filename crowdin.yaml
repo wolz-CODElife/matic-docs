@@ -1,0 +1,10 @@
+project_id: '522988'
+api_token_env: 'adcb612fc9e04d625728657e09baf14fd58ad26762319d0ce5d6bd019caada93f8181842c4b023b7'
+preserve_hierarchy: true
+files:
+  # JSON translation files
+  - source: /matic-docs/i18n/en/**/*
+    translation: /matic-docs/i18n/%two_letters_code%/**/%original_file_name%
+  # Docs Markdown files
+  - source: /docs/**/*
+    translation: /matic-docs/i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
