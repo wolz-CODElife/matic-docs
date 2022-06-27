@@ -80,7 +80,7 @@ If you do not have experience building Decentralized applications (dApps), below
 If you already have a decentralized application (dApp) and you are looking for a platform to help you efficiently scale, then you are in the right place because Polygon allows you to:
 
 1. **Easily migrate from Ethereum Virtual Machine (EVM) based chain**: Polygon prides itself in being the ultimate Layer-2 scaling solution for Ethereum. You don't have to worry about the underlying architecture when deploying or moving your dApps to the Polygon chain as long as it is EVM compatible.
-2. **Use Polygon as a faster transactions layer**: Deploying your dApp to the Polygon Mainnet allows you to use Polygon as a faster transaction layer for your dApps you can get your tokens mapped by us. You can join our [telegram technical group](http://bit.ly/matic-technical-group) to learn more.
+2. **Use Polygon as a faster transactions layer**: Deploying your dApp to the Polygon Mainnet allows you to use Polygon as a faster transaction layer for your dApps, you can get your tokens mapped by us. You can join our [telegram technical group](http://bit.ly/matic-technical-group) to learn more.
 
 ## Side note
 If this is overwhelming, that’s okay! You can jump right into the fire and start hacking. You’ve got this! 
