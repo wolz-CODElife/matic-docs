@@ -1,12 +1,15 @@
 ---
-id: community-maintainers
-title: Community Maintainers 
-description: A list of Polygon community maintainers
+id: wiki-maintainers
+title: Wiki Maintainers 
+description: A list of Polygon Wiki maintainers
 keywords:
   - docs
   - matic
+  - polygon
+  - wiki
+  - docs
+  - maintainers
+  - contributors
 image: https://matic.network/banners/matic-network-16x9.png 
+slug: community-maintainers
 ---
-
-- Delroy Bosco (delroy@polygon.technology)
-- Anurag Arjun (anurag@polygon.technology)

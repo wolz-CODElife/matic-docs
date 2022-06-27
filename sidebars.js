@@ -572,9 +572,42 @@ module.exports = {
   ],
 
   contribute: [
-    "contribute/orientation",
-    "contribute/community-maintainers",
-    "contribute/bug-bounty-program",
+    {
+      type: "category",
+      label: "Before Contributing",
+      items: [
+        "contribute/orientation",
+        "contribute/contributor-guidelines",
+        "contribute/bug-bounty-program",
+        "contribute/wiki-maintainers",
+      ],
+    },
+    {
+      type: "category",
+      label: "Style Guide",
+      items: [
+        "contribute/writing-style",
+        "contribute/writing-resources",
+      ],
+    },
+    {
+      type: "category",
+      label: "Content Guide",
+      items: [
+        "contribute/tutorial-template",
+        "contribute/api-docs",
+        "contribute/process-docs",
+        "contribute/product-docs",
+      ],
+    },
+    {
+      type: "category",
+      label: "Translations",
+      items: [
+        "contribute/non-native-speakers",
+        "contribute/how-to-translate",
+      ],
+    },
   ],
 
   pos: [
